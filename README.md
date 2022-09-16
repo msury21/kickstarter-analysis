@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-After Louise's campaign quickly neared it's goal, she wanted to know about other campaigns with such information as their goals and amounts pledged, when they were started and how long they lasted, their location, and their type. 
+After Louise's campaign quickly neared its goal, she wanted to know about other campaigns with such information as their goals and amounts pledged, when they were started and how long they lasted, their location, and their type. 
 
 ### Purpose
 
